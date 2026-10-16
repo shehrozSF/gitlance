@@ -57,6 +57,7 @@ Only approved team members can access project repositories securely with bank-le
 - [Node.js](https://nodejs.org/) (v18 or higher)
 - [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
 - A [Supabase](https://supabase.com/) account
+- A [Groq](https://groq.com/) account
 
 ### Available Scripts
 
@@ -66,52 +67,6 @@ Only approved team members can access project repositories securely with bank-le
 | `npm run build` | Build for production |
 | `npm run start` | Start production server |
 | `npm run lint` | Run ESLint |
-
----
-
-## 📁 Project Structure
-
-```
-gitlance/
-├── app/                          # Next.js App Router
-│   ├── (marketing)/              # Public marketing pages
-│   │   ├── layout.tsx
-│   │   └── page.tsx              # Landing page
-│   ├── (dashboard)/              # Protected dashboard pages
-│   │   ├── (project)/            # Project-related pages
-│   │   │   ├── explore/
-│   │   │   ├── project/
-│   │   │   ├── proposal/
-│   │   │   └── workspace/
-│   │   ├── profile/
-│   │   ├── search/
-│   │   ├── workspaces/
-│   │   └── layout.tsx
-│   ├── auth/                     # Authentication pages
-│   │   ├── sign-in/
-│   │   ├── signup/
-│   │   ├── confirm-email/
-│   │   ├── forgot-password/
-│   │   └── reset-password/
-│   ├── onboarding/               # User onboarding flow
-│   ├── settings/                 # User settings
-│   └── api/                      # API routes
-│
-├── components/
-│   ├── ui/                       # shadcn/ui components
-│   ├── blocks/                   # Custom landing sections
-│   ├── landing/                  # Landing page components
-│   ├── onboarding/               # Onboarding components
-│   ├── project/                  # Project-related components
-│   └── search/                   # Search components
-│
-├── lib/                          # Utility functions
-├── hooks/                        # Custom React hooks
-├── types/                        # TypeScript type definitions
-├── config/                       # Configuration files
-├── constants/                    # App constants
-└── public/                       # Static assets
-```
 
 ---
 
