@@ -58,34 +58,6 @@ Only approved team members can access project repositories securely with bank-le
 - [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
 - A [Supabase](https://supabase.com/) account
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Faizan-26/gitlance.git
-   cd gitlance
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**
-   
-   Create a `.env.local` file in the root directory with the following variables:
-   ```env
-   NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-   NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=your_supabase_anon_key
-   ```
-
-4. **Run the development server**
-   ```bash
-   npm run dev
-   ```
-
-5. **Open [http://localhost:3000](http://localhost:3000)** in your browser
-
 ### Available Scripts
 
 | Command | Description |
