@@ -6,7 +6,6 @@
   <a href="#-features">Features</a> •
   <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
   <a href="#-getting-started">Getting Started</a> •
-  <a href="#-project-structure">Project Structure</a> •
   <a href="#-license">License</a>
 </div>
 
