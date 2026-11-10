@@ -20,7 +20,7 @@ Sync your repositories directly with GitLance to track commits, pull requests, a
 Discover developers or clients, send proposals, and build project teams with transparency.
 
 ### 💬 Real-Time Collaboration
-Built-in chat, file sharing, and task boards to keep everyone aligned with 99.9% uptime.
+Built-in chat, file sharing, and task boards to keep everyone aligned.
 
 ### 🛠️ Project Management Tools
 Manage issues, assign tasks, and monitor repository activity in one place.
@@ -29,7 +29,7 @@ Manage issues, assign tasks, and monitor repository activity in one place.
 Showcase your GitHub projects, skills, and collaboration history.
 
 ### 🔒 Repo Privacy Control
-Only approved team members can access project repositories securely with bank-level security.
+Only approved team members can access project repositories securely.
 
 ---
 
